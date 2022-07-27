@@ -13,3 +13,7 @@ Contoh: `1512345678001-dts-final-project`
 ## Branching, commit
 
 Branch dapat sesuai dengan kebutuhan mandiri, namun hasil akhirnya harus di merge ke branch `main`.
+
+# Lambang Daerah
+
+Web ini menggunakan api dari : `https://github.com/feri-irawan/API/tree/main/list/lambang-daerah-indonesia#readme`
